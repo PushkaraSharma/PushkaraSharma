@@ -18,3 +18,5 @@
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking!
 - :mailbox: Reach out to me at my social media handles: <br>
 [![Linkedin Badge](https://img.shields.io/badge/-@pushkarasharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/pushkara-sharma/) [![Medium Badge](https://img.shields.io/badge/-@pushkarasharma-black?style=flat-square&labelColor=black&logo=medium&logoColor=white&link=)](https://medium.com/@pushkarasharma11)
+
+[![Spotify](https://github-readme-stats-cyan-nine.vercel.app/api/spotify)](https://open.spotify.com/user/	31ucssgxswjwd5wpnot5xpbd4fte)
